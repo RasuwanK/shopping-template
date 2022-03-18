@@ -66,4 +66,4 @@ const data = [
     }
 ];
 
-export default name;
+export default data;
