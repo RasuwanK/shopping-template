@@ -1,5 +1,6 @@
 
-export default [
+
+const name = [
     {
         id:1,
         name:"Computer",
@@ -63,4 +64,6 @@ export default [
         image:require('./images/eloquent.jpg'),
         purchases:"32"
     }
-]
+];
+
+export default name;
