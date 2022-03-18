@@ -4,7 +4,7 @@ const Searchbox = () => {
     return (
         <div className="search-box">
             <div className="icon">
-                <img src={searchIc} alt="Search ico." />
+                <img src={searchIc} alt="Search icon" />
             </div>
             <input type="text" className="text-input" placeholder="Typehere to search" />
         </div>
