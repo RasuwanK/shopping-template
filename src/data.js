@@ -1,6 +1,6 @@
 
 
-const name = [
+const data = [
     {
         id:1,
         name:"Computer",
